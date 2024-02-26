@@ -16,7 +16,7 @@ body {
 }
 
 .card {
-  max-width: 105rem;
+  max-width: 100rem;
 
   background-color: #1b1836;
 
@@ -103,7 +103,7 @@ body {
   }
 }
 
-@media screen and (max-width: 65em) {
+@media screen and (max-width: 63em) {
   html {
     font-size: 56.25%;
   }
